@@ -4,10 +4,14 @@ const products=[
 {id:3,name:'Dios es fiel',cat:'HOLOGRÁFICO',cats:['CELULARES','FE'],desc:'Mensaje de fe · holográfico',image:'assets/images/dios-es-fiel.jpg',new:true,trend:true},
 {id:4,name:'Chico Capucha',cat:'VINIL',cats:['CELULARES','LAPTOPS'],desc:'Diseño urbano',image:'assets/images/sticker-4.jpg',trend:true},
 {id:5,name:'Gato X',cat:'VINIL',cats:['MOTOS','AUTOS'],desc:'Diseño divertido',image:'assets/images/sticker-5.jpg',trend:true},
-{id:6,name:'Fantasma No',cat:'VINIL',cats:['AUTOS','LAPTOPS'],desc:'Diseño divertido',image:'assets/images/sticker-6.jpg',trend:true},
+{id:6,name:'Fantasma No',cat:'VINIL',cats:['AUTOS','LAPTOPS'],desc:'Diseño divertido',image:'assets/images/sticker-6.jpg',new:true,trend:true},
 {id:7,name:'Emoji Enojado',cat:'VINIL',cats:['CELULARES','LAPTOPS'],desc:'Diseño expresivo',image:'assets/images/sticker-7.jpg'},
 {id:8,name:'Mano Esqueleto',cat:'VINIL',cats:['MOTOS','AUTOS'],desc:'Diseño urbano',image:'assets/images/sticker-8.jpg'},
-{id:9,name:'Con Dios por delante',cat:'VINIL',cats:['CELULARES','FE'],desc:'Mensaje de fe',image:'assets/images/sticker-9.jpg',new:true}
+{id:9,name:'Con Dios por delante',cat:'VINIL',cats:['CELULARES','FE'],desc:'Mensaje de fe',image:'assets/images/sticker-9.jpg',new:true},
+{id:10,name:'Oración',cat:'VINIL',cats:['MOTOS','AUTOS'],desc:'Mensaje de fe',image:'assets/images/sticker-10.jpg',new:true,trend:true},
+{id:11,name:'RAPTOR',cat:'VINIL',cats:['AUTOS','MOTOS'],desc:'Diseño automotriz',image:'assets/images/sticker-11.jpg',new:true},
+{id:12,name:'TRD',cat:'VINIL',cats:['AUTOS','MOTOS'],desc:'Diseño automotriz',image:'assets/images/sticker-12.jpg',new:true},
+{id:13,name:'FUERA DE LA CARRETERA',cat:'VINIL',cats:['AUTOS','MOTOS'],desc:'Diseño todoterreno',image:'assets/images/sticker-13.jpg',new:true}
 ];
 let filter='TODOS',cart=[];
 const $=s=>document.querySelector(s);

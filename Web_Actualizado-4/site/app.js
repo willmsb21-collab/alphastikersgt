@@ -8,7 +8,7 @@ const products=[
 {id:7,name:'Emoji Enojado',cat:'VINIL',cats:['CELULARES','LAPTOPS'],desc:'Diseño expresivo',image:'assets/images/sticker-7.jpg'},
 {id:8,name:'Mano Esqueleto',cat:'VINIL',cats:['MOTOS','AUTOS'],desc:'Diseño urbano',image:'assets/images/sticker-8.jpg'},
 {id:9,name:'Con Dios por delante',cat:'VINIL',cats:['CELULARES','FE'],desc:'Mensaje de fe',image:'assets/images/sticker-9.jpg',new:true},
-{id:10,name:'Calavera Dedo',cat:'VINIL',cats:['MOTOS','AUTOS'],desc:'Diseño urbano',image:'assets/images/sticker-10.jpg',new:true,trend:true},
+{id:10,name:'Oracion',cat:'VINIL',cats:['MOTOS','AUTOS'],desc:'mensaje de fe',image:'assets/images/sticker-10.jpg',new:true,trend:true},
 {id:11,name:'RAPTOR',cat:'VINIL',cats:['AUTOS','MOTOS'],desc:'Diseño automotriz',image:'assets/images/sticker-11.jpg',new:true},
 {id:12,name:'TRD',cat:'VINIL',cats:['AUTOS','MOTOS'],desc:'Diseño automotriz',image:'assets/images/sticker-12.jpg',new:true},
 {id:13,name:'OFF ROAD',cat:'VINIL',cats:['AUTOS','MOTOS'],desc:'Diseño off road',image:'assets/images/sticker-13.jpg',new:true,trend:true}

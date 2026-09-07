@@ -21,7 +21,7 @@ const products=[
 {id:20,name:'EU ❤️ SUSHI',cat:'HOLOGRÁFICO',cats:['CELULARES','AUTOS'],desc:'Diseño personalizado holográfico',image:'assets/images/20260904_091839.jpg',new:true,trend:true},
 {id:21,name:'El Avión de Tierra',cat:'HOLOGRÁFICO',cats:['AUTOS','MOTOS'],desc:'Diseño automotriz holográfico',image:'assets/images/20260904_092123.jpg',new:true,trend:true},
 {id:22,name:'Monster Energy',cat:'HOLOGRÁFICO',cats:['MOTOS','AUTOS'],desc:'Diseño automotriz holográfico',image:'assets/images/20260904_123155.jpg',new:true,trend:true},
-{id:23,name:'Jesús es la verdad y la vida',cat:'HOLOGRÁFICO',cats:['CELULARES','AUTOS'],desc:'Mensaje de fe holográfico',image:'assets/images/20260904_234032.jpg',new:true,trend:true}];
+{id:23,name:'Jesús es la verdad',cat:'HOLOGRÁFICO',cats:['CELULARES','AUTOS'],desc:'Mensaje de fe holográfico',image:'assets/images/20260904_234032.jpg',new:true,trend:true}];
 let filter='TODOS',cart=[];
 const $=s=>document.querySelector(s);
 function render(){

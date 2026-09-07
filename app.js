@@ -13,7 +13,7 @@ const products=[
 {id:12,name:'TRD',cat:'VINIL',cats:['AUTOS','MOTOS'],desc:'Diseño automotriz',image:'assets/images/sticker-12.jpg',new:true},
 {id:13,name:'FUERA DE LA CARRETERA',cat:'VINIL',cats:['AUTOS','MOTOS'],desc:'Diseño todoterreno',image:'assets/images/sticker-13.jpg',new:true},
 {id:14,name:'Jesús The King',cat:'HOLOGRÁFICO',cats:['CELULARES','AUTOS'],desc:'Diseño religioso holográfico',image:'assets/images/20260902_192111.jpg',new:true,trend:true},
-{id:15,name'Jesús es la verdad',cat:'HOLOGRÁFICO',cats:['CELULARES','AUTOS'],desc:'Mensaje de fe holográfico',image:'assets/images/20260904_234032.jpg',new:true,trend:true}];
+{id:15,name'Jesús es la verdad',cat:'HOLOGRÁFICO',cats:['CELULARES','AUTOS'],desc:'Mensaje de fe holográfico',image:'assets/images/20260904_234032.jpg',new:true,trend:true},
 {id:16,name:'Monster Energy',cat:'HOLOGRÁFICO',cats:['MOTOS','AUTOS'],desc:'Diseño automotriz holográfico',image:'assets/images/20260904_123155.jpg',new:true,trend:true},
 {id:17,name:'El Avión de Tierra',cat:'HOLOGRÁFICO',cats:['AUTOS','MOTOS'],desc:'Diseño automotriz holográfico',image:'assets/images/20260904_092123.jpg',new:true,trend:true},
 {id:18,name:'Dragon Ball',cat:'VINIL',cats:['CELULARES','MOTOS','AUTOS'],desc:'Diseño anime',image:'assets/images/20260902_194656.jpg',new:true,trend:true},
@@ -21,7 +21,7 @@ const products=[
 {id:20,name::'Bike Life',cat:'HOLOGRÁFICO',cats:['MOTOS'],desc:'Diseño para motociclistas',image:'assets/images/20260904_091627.jpg',new:true,trend:true},
 {id:21,name:'Antisocial',cat:'HOLOGRÁFICO',cats:['CELULARES','AUTOS'],desc:'Diseño urbano holográfico',image:'assets/images/20260903_221151.jpg',new:true,trend:true},
 {id:22,name:'Horror',cat:'VINIL',cats:['CELULARES','AUTOS','MOTOS'],desc:'Diseño de terror',image:'assets/images/20260902_134215.jpg',new:true,trend:true},
-{id:23,name::'Torito',cat:'VINIL',cats:['MOTOS','AUTOS'],desc:'Diseño personalizado para aros y vehículos',image:'assets/images/20260902_133734.jpg',new:true,trend:true},];
+{id:23,name::'Torito',cat:'VINIL',cats:['MOTOS','AUTOS'],desc:'Diseño personalizado para aros y vehículos',image:'assets/images/20260902_133734.jpg',new:true,trend:true}];
 let filter='TODOS',cart=[];
 const $=s=>document.querySelector(s);
 function render(){
